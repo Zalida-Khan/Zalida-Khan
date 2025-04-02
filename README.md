@@ -1,7 +1,16 @@
-<img src="https://i.pinimg.com/736x/fa/08/8c/fa088c46853395a33ad575f9b73a82ac.jpg" width="310" style="border-radius: 15px;">
-<h3>Hello ❥! Nice to meet you, I'm Zalida!!</h3>
-<img src="https://cdn.dribbble.com/userupload/20774182/file/original-83358eaaa2b60c7e7de1a9b2c8684395.gif" width="100" style="border-radius: 15px;"> A little more about me...
+<table align="center" style="border-radius: 15px; border: 2px solid #ddd; padding: 10px;">
+  <tr>
+    <td>
+      <img src="https://cdn.dribbble.com/userupload/20774182/file/original-83358eaaa2b60c7e7de1a9b2c8684395.gif" width="100" 
+           style="border-radius: 15px; display: block;">
+    </td>
+    <td style="padding-left: 15px; font-size: 22px; font-weight: bold; text-align: center;">
+      Hello there! It's nice to meet you, I'm Zalida!!
+    </td>
+  </tr>
+</table>
 
+ A little more about me...
 ```javascript
 const Zalida = {
   pronouns: "she" | "her",
