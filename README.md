@@ -19,7 +19,7 @@ const Zalida = {
     "Experienced in graphic design, UI/UX design, and front-end development",
   ],
   toolsAndSkills: "View Tools & Skills below",
-hobbies: [
+  hobbies: [
     "Traveling with Family & Friends",
     "Makeup",
     "Video Games",
