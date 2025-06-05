@@ -16,7 +16,7 @@ const Zalida = {
   pronouns: "she" | "her",
   desc: [
     "Design student with a passion for creativity, technology, and gaming.",
-    "Experienced in graphic design, UI/UX design, and front-end development",
+    "Experienced in graphic design, UI/UX design, and front-end development"
   ],
   toolsAndSkills: "View Tools & Skills below",
   hobbies: [
@@ -24,8 +24,8 @@ const Zalida = {
     "Makeup",
     "Video Games",
     "Music",
-    "Painting/Drawing",
-],
+    "Painting/Drawing"
+  ]
 };
 ```
 
